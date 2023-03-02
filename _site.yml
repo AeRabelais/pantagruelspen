@@ -4,7 +4,7 @@ theme: theme.css
 description: |
   Pantagruel's Pen
 base_url: coming soon
-output_dir: "_site"
+output_dir: "."
 collections:
   posts:
     disqus: reproducible-finance-with-r
