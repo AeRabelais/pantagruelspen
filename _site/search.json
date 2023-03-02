@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "path": "about_me.html",
+      "title": "About this blog",
+      "description": "Some details about the blog",
+      "author": [],
+      "contents": "\nDoes this actually work?\n\n\n\n",
+      "last_modified": "2023-03-02T15:12:08-06:00"
+    },
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "Some details about the blog",
+      "author": [],
+      "contents": "\nHow does this actually work?\n\n\n\n",
+      "last_modified": "2023-03-02T15:12:08-06:00"
+    },
+    {
+      "path": "index.html",
+      "title": "The Pen",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2023-03-02T14:29:20-06:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

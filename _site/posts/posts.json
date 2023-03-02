@@ -1,0 +1,28 @@
+[
+  {
+    "path": "posts/2023-03-02-trying-example-post/",
+    "title": "An Example Post",
+    "description": "An example post that shows all the things I can do with posts.",
+    "author": [],
+    "date": "2023-03-02",
+    "categories": [
+      "example_post"
+    ],
+    "contents": "\n\n\n\n",
+    "preview": "posts/2023-03-02-trying-example-post/roach.jpeg",
+    "last_modified": "2023-03-02T14:29:20-06:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Pantagruel's Pen",
+    "description": "Welcome to our new blog, Pantagruel's Pen. We hope you enjoy \nreading what we have to say!",
+    "author": [],
+    "date": "2023-03-02",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2023-03-02T13:26:09-06:00",
+    "input_file": {}
+  }
+]

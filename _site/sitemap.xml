@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
+  <url>
+    <loc>coming soon/about_me.html</loc>
+    <lastmod>2023-03-02T13:26:59-06:00</lastmod>
+  </url>
+  <url>
+    <loc>coming soon/about.html</loc>
+    <lastmod>2023-03-02T13:26:49-06:00</lastmod>
+  </url>
+  <url>
+    <loc>coming soon/</loc>
+    <lastmod>2023-03-02T13:17:40-06:00</lastmod>
+  </url>
+  <url>
+    <loc>coming soon/posts/2023-03-02-trying-example-post/</loc>
+    <lastmod>2023-03-02T14:29:20-06:00</lastmod>
+  </url>
+  <url>
+    <loc>coming soon/posts/welcome/</loc>
+    <lastmod>2023-03-02T13:26:09-06:00</lastmod>
+  </url>
+</urlset>

@@ -1,0 +1,21 @@
+---
+title: "An Example Post"
+description: |
+  An example post that shows all the things I can do with posts.
+date: 03-02-2023
+output:
+  distill::distill_article:
+    self_contained: false
+categories:
+  - example_post
+preview: roach.jpeg
+#draft: true for when your article is still just a draft
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```

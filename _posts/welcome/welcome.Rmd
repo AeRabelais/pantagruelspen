@@ -1,0 +1,23 @@
+---
+title: "Welcome to Pantagruel's Pen"
+description: |
+  Welcome to our new blog, Pantagruel's Pen. We hope you enjoy 
+  reading what we have to say!
+date: 03-02-2023
+output:
+  distill::distill_article:
+    self_contained: false
+categories:
+  - example_post
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+
+
